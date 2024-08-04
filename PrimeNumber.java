@@ -21,7 +21,7 @@ void prime(int n)
 }
 }
 
-public class Main {
+public class PrimeNumber {
     
     public static void main(String []args)
     {
